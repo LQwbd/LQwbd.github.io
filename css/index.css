@@ -20412,7 +20412,7 @@ html.hide-aside .layout > div:first-child {
 #flip-wrapper {
   position: relative;
   width: 235px;
-  height: 110px;
+  height: 235px;
   z-index: 1;
 }
 #flip-content {
