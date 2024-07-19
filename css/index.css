@@ -20437,14 +20437,14 @@ html.hide-aside .layout > div:first-child {
 }
 
 #aside-content .card-widget#card-wechat {
-  background: #437d94;
+  background: #4367ac;
   display: flex;
   justify-content: center;
   align-content: center;
   padding: 0;
   cursor: pointer;
   border: none;
-  height: 235px;
+  height: 260px;
 }
 [data-theme="dark"] #aside-content .card-widget#card-wechat {
   background-color: #121121;
