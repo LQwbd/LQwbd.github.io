@@ -20475,7 +20475,7 @@ html.hide-aside .layout > div:first-child {
   height: 150%;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background-size: 150%;
+  background-size: 100%;
 }
 
 #aside-content #flip-wrapper #flip-content .back.face {
@@ -20483,7 +20483,7 @@ html.hide-aside .layout > div:first-child {
   -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
   box-sizing: border-box;
-  background-size: 150%;
+  background-size: 100%;
 }
 #flip-wrapper:hover #flip-content {
   -webkit-transform: rotateY(180deg);
