@@ -20471,8 +20471,8 @@ html.hide-aside .layout > div:first-child {
 }
 #aside-content #flip-wrapper #flip-content .face {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 150%;
+  height: 150%;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-size: 100%;
