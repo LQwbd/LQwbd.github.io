@@ -20444,7 +20444,7 @@ html.hide-aside .layout > div:first-child {
   padding: 0;
   cursor: pointer;
   border: none;
-  height: 380px;
+  height: 400px;
 }
 [data-theme="dark"] #aside-content .card-widget#card-wechat {
   background-color: #ffffff00;
@@ -20459,7 +20459,7 @@ html.hide-aside .layout > div:first-child {
 #flip-wrapper {
   position: relative;
   width: 350px;
-  height: 400px;
+  height: 410px;
   z-index: 1;
 }
 #flip-content {
