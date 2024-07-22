@@ -20458,8 +20458,8 @@ html.hide-aside .layout > div:first-child {
 
 #flip-wrapper {
   position: relative;
-  width: 350px;
-  height: 480px;
+  width: 330px;
+  height: 380px;
   z-index: 1;
 }
 #flip-content {
