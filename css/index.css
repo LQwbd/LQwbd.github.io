@@ -20452,16 +20452,18 @@ html.hide-aside .layout > div:first-child {
 }
 
 #flip-wrapper {
-  -webkit-perspective: 1000;
-  perspective: 1000;
-}
-
-#flip-wrapper {
   position: relative;
   width: 350px;
   height: 480px;
   z-index: 1;
 }
+
+#flip-wrapper {
+  -webkit-perspective: 1000;
+  perspective: 1000;
+}
+
+
 #flip-content {
   width: 100%;
   height: 100%;
