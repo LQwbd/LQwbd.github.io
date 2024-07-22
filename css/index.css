@@ -20443,7 +20443,7 @@ html.hide-aside .layout > div:first-child {
   align-content: center;
   padding: 0;
   cursor: pointer;
-  border: none;
+  border: var(--style-border);
   height: 401px;
 }
 [data-theme="dark"] #aside-content .card-widget#card-wechat {
