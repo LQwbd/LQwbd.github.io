@@ -20444,7 +20444,7 @@ html.hide-aside .layout > div:first-child {
   padding: 0;
   cursor: pointer;
   border: none;
-  height: 420px;
+  height: 360px;
 }
 [data-theme="dark"] #aside-content .card-widget#card-wechat {
   background-color: #ffffff00;
